@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+<CVehicleModelInfoVarGlobal>    
+  <Wheels>
+    <Item/> <!-- VWT_SPORT -->
+    <Item/> <!-- VWT_MUSCLE -->
+    <Item/> <!-- VWT_LOWRIDER -->
+    <Item/> <!-- VWT_SUV -->
+    <Item/> <!-- VWT_OFFROAD -->
+    <Item> <!-- VWT_TUNER -->
+	  <Item>
+        <wheelName>CvtChrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_01</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>CvtColored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_02</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_2Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_03</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_2Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_04</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_4Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_05</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_4Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_06</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_5Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_07</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_5Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_08</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_1Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_09</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_1Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_10</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_6Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_11</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VFS_6Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_12</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_CV3_RChrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_13</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_CV3_RColored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_14</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_HC_1Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_15</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_HC_1Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_16</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_HC3Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_17</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_HC3Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_18</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_VPS_310Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_19</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_VPS_310Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_20</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_VPS302Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_21</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_VPS302Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_22</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_HC2Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_23</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>Vossen_HC2Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_24</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS301Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_25</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS301Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_26</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS302TChrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_27</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS302TColored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_28</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS306Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_29</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS306Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_30</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS307Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_31</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS307Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_32</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS307TChrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_33</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS307TColored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_34</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS310Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_35</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS310Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_36</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS310TChrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_37</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS310TColored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_38</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS312Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_39</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS312Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_40</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS313TChrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_41</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS313TColored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_42</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS314Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_43</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS314Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_44</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS314TChrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_45</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS314TColored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_46</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS315Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_47</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS315Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_48</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS315TChrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_49</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS315TColored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_50</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS317Chrome</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_51</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+		<Item>
+        <wheelName>VPS317Colored</wheelName>
+        <wheelVariation />
+        <modShopLabel>vbrims3_52</modShopLabel>
+        <rimRadius value="0.348500"/>
+        <rear value="false"/>
+		</Item>
+	</Item>
+    <Item/> <!-- VWT_BIKE -->
+    <Item/> <!-- VWT_HIEND -->
+    <Item/> <!-- VWT_SUPERMOD1 -->
+    <Item/> <!-- VWT_SUPERMOD2 -->
+    <Item/>
+  </Wheels>
+</CVehicleModelInfoVarGlobal>
