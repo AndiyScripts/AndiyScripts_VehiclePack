@@ -1,0 +1,13 @@
+Brand: Toyota 
+
+Model: Celica
+
+Year: 1994 
+
+Link: https://www.gta5-mods.com/vehicles/1994-toyota-celica-addon-fivem-martymcfly420#description_tab
+
+Real Top Speed: 195 km/h
+
+In Game Top Speed:  km/h
+
+Spawn Name: 94celica

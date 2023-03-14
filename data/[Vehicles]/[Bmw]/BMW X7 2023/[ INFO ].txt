@@ -1,0 +1,13 @@
+Brand: BMW
+
+Model: X7
+
+Year: 2023
+
+Link: https://www.gta5-mods.com/vehicles/bmw-x7-2023-add-on-fivem
+
+Real Top Speed: 249 km/h
+
+In Game Top Speed:  km/h
+
+Spawn Name: mobm23

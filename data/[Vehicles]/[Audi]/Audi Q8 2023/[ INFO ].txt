@@ -1,0 +1,13 @@
+Brand: Audi
+
+Model: Q8
+
+Year: 2023 
+
+Link: https://www.gta5-mods.com/vehicles/audi-q8-2023-add-on
+
+Real Top Speed: 250 km/h
+
+In Game Top Speed: km/h
+
+Spawn Name: Q82023

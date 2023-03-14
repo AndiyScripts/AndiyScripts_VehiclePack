@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--ÞÈá ãä ÇáÊØæíÑ Êã  -->
+	<!--naseer.28 -->
+	<!--ÌÏÇ ÍÓÇÓÉ ÇáãÊÛíÑÇÊ æ ÇáÃÑÞÇã áÃä ÚáíåÇ ÇáÊÚÏíá Ãæ ÇáãáÝ ãÍÊæíÇÊ äÓÎ ÚÏã ÑÌÇÁ -->
+<CVehicleModelInfoVariation>
+  <variationData>
+     <Item>
+      <modelName>ns28_fj2023</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            117 
+            33
+            18
+            156
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>ns28_fj2023</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="40" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="40" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

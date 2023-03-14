@@ -1,0 +1,13 @@
+Brand: Mercedes-Benz
+
+Model: SL63 AMG
+
+Year: 2023
+
+Link: https://www.gta5-mods.com/vehicles/mercedes-sl63-amg-2023-add-on-replace
+
+Real Top Speed: 315 km/h
+
+In Game Top Speed:  km/h
+
+Spawn Name: mercedessl63

@@ -1,0 +1,13 @@
+Brand: Audi
+
+Model: RS7 + ABT Version
+
+Year: 2023
+  
+Link: https://www.gta5-mods.com/vehicles/2023-audi-rs7-abt-version-extras-hq-chassis-automatic-spoiler-animated-engine
+
+Real Top Speed: 249 km/h
+
+In Game Top Speed:  km/h
+
+Spawn Name: 23rs7

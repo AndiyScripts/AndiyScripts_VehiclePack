@@ -1,0 +1,13 @@
+Brand: Honda
+
+Model: Civic Type-R FL5
+
+Year: 2023
+
+Link: https://www.gta5-mods.com/vehicles/honda-civic-type-r-fl5-2023-add-on-rhd
+
+Real Top Speed: 275 km/h
+
+In Game Top Speed:  km/h
+
+Spawn Name: typer23

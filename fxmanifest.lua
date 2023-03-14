@@ -121,6 +121,24 @@ data_file 'AUDIO_GAMEDATA' 'audioconfig/laferrarisound_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/laferrarisound_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_laferrarisound'
 
+-- Bugatti Chiron Pursport W16 Link: https://www.gta5-mods.com/vehicles/bugatti-chiron-pursport-w16-sound-mod-sp-add-on-fivem-legacy_dmc
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/lg62chironpursport_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/lg62chironpursport_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lg62chironpursport'
+
+-- Dodge Challenger Hellcat Redeye V8 link: https://www.gta5-mods.com/vehicles/dodge-challenger-hellcat-redeye-v8-sound-mod-sp-add-on-fivem
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/lg81hcredeye_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/lg81hcredeye_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lg81hcredeye'
+
+-- Ferrari 812 Superfast V12 Link: https://www.gta5-mods.com/vehicles/ferrari-812-superfast-v12-sound-mod-sp-add-on-fivem
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/lg86fer812sf_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/lg86fer812sf_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lg86fer812sf'
+
 -- mclaren v8
 
 data_file 'AUDIO_GAMEDATA' 'audioconfig/mclarenv8_game.dat'
@@ -150,6 +168,12 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_perfov10'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/sestov10_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/sestov10_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_sestov10'
+
+-- talam52 v10
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/talam52v10_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/talam52v10_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_talam52v10'
 
 -- urus v8
 

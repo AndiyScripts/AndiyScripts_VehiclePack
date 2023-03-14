@@ -1,0 +1,13 @@
+Brand: Lamborghini
+
+Model: Huracan Tecnica 
+
+Year: 2023
+
+Link: https://www.gta5-mods.com/vehicles/lamborghini-huracan-tecnica-23
+
+Real Top Speed: 325 km/h
+
+In Game Top Speed: km/h
+
+Spawn Name: tecnica

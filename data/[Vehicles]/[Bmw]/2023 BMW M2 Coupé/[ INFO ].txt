@@ -1,0 +1,13 @@
+Brand: BMW
+
+Model: M2 Coupé
+
+Year: 2023
+
+Link: https://www.gta5-mods.com/vehicles/2023-bmw-m2-coupe-addon-fivem
+
+Real Top Speed: 249 km/h
+
+In Game Top Speed:  km/h
+
+Spawn Name: 23m2

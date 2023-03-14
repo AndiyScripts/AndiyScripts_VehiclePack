@@ -1,0 +1,13 @@
+Brand: Chevrolet 
+
+Model: Colorado ZR2
+
+Year: 2017 
+
+Link: https://www.gta5-mods.com/vehicles/2017-chevy-colorado-add-on-fivem
+
+Real Top Speed: 217 km/h
+
+In Game Top Speed:  km/h
+
+Spawn Name: 17coloradozr2
